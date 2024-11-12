@@ -1,0 +1,3 @@
+C:/Users/Fatih/Desktop/System Program/cmake-build-debug/CMakeFiles/System_Program.dir
+C:/Users/Fatih/Desktop/System Program/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fatih/Desktop/System Program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
